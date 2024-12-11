@@ -24,9 +24,6 @@ jobs:
       with:
         languages: ${{ matrix.language }}
         queries: security-extended
-        config: |
-          paths-ignore:
-            - 'data/static/codefixes'
     - name: Autobuild
       uses: github/codeql-action/autobuild@v2
     - name: Perform CodeQL Analysis

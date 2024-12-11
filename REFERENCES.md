@@ -296,10 +296,6 @@ mentioned or used!
     * [Extending the features of the vulnerable code snippets](https://summerofcode.withgoogle.com/archive/2021/projects/5180407718346752P)
       by Ayas Behera (mentored by Jannik Hollenbach and Björn Kimminich)
 * Student project from
-  [Google Summer of Code 2020](https://summerofcode.withgoogle.com/archive/2020/projects)
-    * [Juice-Shop ChatBot and general fixes](https://summerofcode.withgoogle.com/archive/2020/projects/5660020047347712/)
-      by Mohit Sharma (mentored by Jannik Hollenbach, Björn Kimminich and Timo Pagel)
-* Student project from
   [Google Summer of Code 2019](https://summerofcode.withgoogle.com/archive/2019/projects)
     * [OWASP Juice Shop: Feature Pack 2019](https://summerofcode.withgoogle.com/archive/2019/projects/6526397403627520/)
       by Arpit Agrawal (mentored by Jannik Hollenbach, Björn Kimminich and Shoeb Patel)
